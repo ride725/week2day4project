@@ -1,0 +1,31 @@
+html, form, head, body, label, input, h1, {
+    padding: 0;
+    font-size: 100%;
+    font: inherit;
+}
+body, form, h1 {
+    font-family: Lato, sans-serif;
+}
+html {
+    margin: 50px 200px 50px 200px;
+    padding: 0px 325px;
+}
+h1 {
+    font-size: 25px;
+    text-align: center;
+    
+}
+form {
+    text-align: center;
+    padding: 15px 15px 15px 15px;
+    margin: 20px 20px 20px 20px;
+    line-height: 1.9;
+    display: block;
+}
+body {
+    border: 1px solid black;
+    margin: auto 50px auto 50px;
+}
+main-content {
+    border: 1px solid black;
+}
